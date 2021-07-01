@@ -32,12 +32,12 @@ f = open('/home/rohit/Documents/scRNA-seq/data/muscleTFStuff/muscle_tfs.txt')
 tf = f.read().splitlines()
 f.close()
 
-f = open('/home/rohit/Documents/scRNA-seq/data/geneAndTimeData/muscle_functional_genes.txt')
+f = open('/home/rohit/Documents/scRNA-seq/data/muscleTFStuff/muscle_functional_genes.txt')
 func_genes = f.read().splitlines()
 f.close()
 
 genes = tf + func_genes
-genes_idx = [i+1 for i, val in enumerate(columns) if val in genes]
+genes_idx = [i for i, val in enumerate(columns) if val in genes]
 genes_idx.insert(0,0)
 
 df_dict = {}
@@ -45,6 +45,7 @@ bins = ['270_330', '330_390', '390_450', '450_510', '510_580', '580_650', 'gt_65
 
 for i in muscles:
     df_dict[i] = pd.read_csv('data/geneAndTimeData/bwm_csv/' + i.lower() + '_time_bins.csv', index_col=0, usecols=genes_idx)
+    print(df_dict[i])
 
 df_final_dict = {}
 for bin in bins:
