@@ -7,9 +7,9 @@ from anndata import AnnData
 import scanpy as sc
 
 
-normalize_by_cell = False
-normalize_by_gene = False
-mean_subtract = True
+normalize_by_cell = True
+normalize_by_gene = True
+mean_subtract = False
 
 def get_adjustment():
     if mean_subtract:
@@ -64,7 +64,7 @@ for key, val in df_final_dict.items():
         val = val.fillna(0)
 
     if normalize_by_cell:
-        # val +=1 
+        val +=1 
         adata = AnnData(val)
         val = sc.pp.normalize_total(adata, inplace=False, exclude_highly_expressed = True)['X']
 
