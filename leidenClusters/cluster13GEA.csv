@@ -1,0 +1,164 @@
+wbid,term,found
+WBGene00013077,cell surface GO:0009986,1.0
+WBGene00008040,cell surface GO:0009986,1.0
+WBGene00013078,cell surface GO:0009986,1.0
+WBGene00012383,cell surface GO:0009986,1.0
+WBGene00004300,structural constituent of cuticle GO:0042302,1.0
+WBGene00000704,structural constituent of cuticle GO:0042302,1.0
+WBGene00000699,structural constituent of cuticle GO:0042302,1.0
+WBGene00000681,structural constituent of cuticle GO:0042302,1.0
+WBGene00000641,structural constituent of cuticle GO:0042302,1.0
+WBGene00009126,nucleoside phosphate metabolic process GO:0006753,1.0
+WBGene00017775,nucleoside phosphate metabolic process GO:0006753,1.0
+WBGene00022199,nucleoside phosphate metabolic process GO:0006753,1.0
+WBGene00016716,nucleoside phosphate metabolic process GO:0006753,1.0
+WBGene00011474,nucleoside phosphate metabolic process GO:0006753,1.0
+WBGene00015137,potassium ion transmembrane transport GO:0071805,1.0
+WBGene00013542,potassium ion transmembrane transport GO:0071805,1.0
+WBGene00006663,potassium ion transmembrane transport GO:0071805,1.0
+WBGene00006672,potassium ion transmembrane transport GO:0071805,1.0
+WBGene00006318,potassium ion transmembrane transport GO:0071805,1.0
+WBGene00001863,calcium ion binding GO:0005509,1.0
+WBGene00023407,calcium ion binding GO:0005509,1.0
+WBGene00006587,calcium ion binding GO:0005509,1.0
+WBGene00001403,calcium ion binding GO:0005509,1.0
+WBGene00000286,calcium ion binding GO:0005509,1.0
+WBGene00003370,calcium ion binding GO:0005509,1.0
+WBGene00000998,calcium ion binding GO:0005509,1.0
+WBGene00003495,calcium ion binding GO:0005509,1.0
+WBGene00008998,calcium ion binding GO:0005509,1.0
+WBGene00003369,calcium ion binding GO:0005509,1.0
+WBGene00006587,cellular developmental process GO:0048869,1.0
+WBGene00001000,cellular developmental process GO:0048869,1.0
+WBGene00018024,cellular developmental process GO:0048869,1.0
+WBGene00006825,cellular developmental process GO:0048869,1.0
+WBGene00003991,cellular developmental process GO:0048869,1.0
+WBGene00003495,cellular developmental process GO:0048869,1.0
+WBGene00006759,cellular developmental process GO:0048869,1.0
+WBGene00016716,cellular developmental process GO:0048869,1.0
+WBGene00006820,cellular developmental process GO:0048869,1.0
+WBGene00006789,cellular developmental process GO:0048869,1.0
+WBGene00006764,cellular developmental process GO:0048869,1.0
+WBGene00006495,cellular developmental process GO:0048869,1.0
+WBGene00019727,cellular developmental process GO:0048869,1.0
+WBGene00001116,cellular developmental process GO:0048869,1.0
+WBGene00009126,organic acid metabolic process GO:0006082,1.0
+WBGene00016630,organic acid metabolic process GO:0006082,1.0
+WBGene00022199,organic acid metabolic process GO:0006082,1.0
+WBGene00014054,organic acid metabolic process GO:0006082,1.0
+WBGene00016716,organic acid metabolic process GO:0006082,1.0
+WBGene00011474,organic acid metabolic process GO:0006082,1.0
+WBGene00018579,organic acid metabolic process GO:0006082,1.0
+WBGene00007197,organic acid metabolic process GO:0006082,1.0
+WBGene00003162,organic acid metabolic process GO:0006082,1.0
+WBGene00009126,purine nucleotide metabolic process GO:0006163,1.0
+WBGene00022199,purine nucleotide metabolic process GO:0006163,1.0
+WBGene00016716,purine nucleotide metabolic process GO:0006163,1.0
+WBGene00011474,purine nucleotide metabolic process GO:0006163,1.0
+WBGene00006587,supramolecular polymer GO:0099081,1.0
+WBGene00018024,supramolecular polymer GO:0099081,1.0
+WBGene00006584,supramolecular polymer GO:0099081,1.0
+WBGene00003515,supramolecular polymer GO:0099081,1.0
+WBGene00016197,supramolecular polymer GO:0099081,1.0
+WBGene00000942,supramolecular polymer GO:0099081,1.0
+WBGene00020195,supramolecular polymer GO:0099081,1.0
+WBGene00010888,supramolecular polymer GO:0099081,1.0
+WBGene00007054,supramolecular polymer GO:0099081,1.0
+WBGene00006319,supramolecular polymer GO:0099081,1.0
+WBGene00006825,supramolecular polymer GO:0099081,1.0
+WBGene00003991,supramolecular polymer GO:0099081,1.0
+WBGene00011270,supramolecular polymer GO:0099081,1.0
+WBGene00006822,supramolecular polymer GO:0099081,1.0
+WBGene00006863,supramolecular polymer GO:0099081,1.0
+WBGene00003495,supramolecular polymer GO:0099081,1.0
+WBGene00016722,supramolecular polymer GO:0099081,1.0
+WBGene00006585,supramolecular polymer GO:0099081,1.0
+WBGene00006759,supramolecular polymer GO:0099081,1.0
+WBGene00009475,supramolecular polymer GO:0099081,1.0
+WBGene00000228,supramolecular polymer GO:0099081,1.0
+WBGene00006999,supramolecular polymer GO:0099081,1.0
+WBGene00006819,supramolecular polymer GO:0099081,1.0
+WBGene00001572,supramolecular polymer GO:0099081,1.0
+WBGene00006820,supramolecular polymer GO:0099081,1.0
+WBGene00011474,supramolecular polymer GO:0099081,1.0
+WBGene00004130,supramolecular polymer GO:0099081,1.0
+WBGene00006789,supramolecular polymer GO:0099081,1.0
+WBGene00006764,supramolecular polymer GO:0099081,1.0
+WBGene00006495,supramolecular polymer GO:0099081,1.0
+WBGene00014262,supramolecular polymer GO:0099081,1.0
+WBGene00044078,supramolecular polymer GO:0099081,1.0
+WBGene00003369,supramolecular polymer GO:0099081,1.0
+WBGene00006318,supramolecular polymer GO:0099081,1.0
+WBGene00000063,supramolecular polymer GO:0099081,1.0
+WBGene00006824,supramolecular polymer GO:0099081,1.0
+WBGene00019727,supramolecular polymer GO:0099081,1.0
+WBGene00001116,supramolecular polymer GO:0099081,1.0
+WBGene00006587,actin filament-based process GO:0030029,1.0
+WBGene00006825,actin filament-based process GO:0030029,1.0
+WBGene00003991,actin filament-based process GO:0030029,1.0
+WBGene00003495,actin filament-based process GO:0030029,1.0
+WBGene00006759,actin filament-based process GO:0030029,1.0
+WBGene00002040,actin filament-based process GO:0030029,1.0
+WBGene00006819,actin filament-based process GO:0030029,1.0
+WBGene00000768,actin filament-based process GO:0030029,1.0
+WBGene00006820,actin filament-based process GO:0030029,1.0
+WBGene00006789,actin filament-based process GO:0030029,1.0
+WBGene00006764,actin filament-based process GO:0030029,1.0
+WBGene00006495,actin filament-based process GO:0030029,1.0
+WBGene00014262,actin filament-based process GO:0030029,1.0
+WBGene00000063,actin filament-based process GO:0030029,1.0
+WBGene00001116,actin filament-based process GO:0030029,1.0
+WBGene00002974,passive transmembrane transporter activity GO:0022803,1.0
+WBGene00015137,passive transmembrane transporter activity GO:0022803,1.0
+WBGene00013542,passive transmembrane transporter activity GO:0022803,1.0
+WBGene00006319,passive transmembrane transporter activity GO:0022803,1.0
+WBGene00006784,passive transmembrane transporter activity GO:0022803,1.0
+WBGene00006822,passive transmembrane transporter activity GO:0022803,1.0
+WBGene00002140,passive transmembrane transporter activity GO:0022803,1.0
+WBGene00006663,passive transmembrane transporter activity GO:0022803,1.0
+WBGene00006672,passive transmembrane transporter activity GO:0022803,1.0
+WBGene00006318,passive transmembrane transporter activity GO:0022803,1.0
+WBGene00010790,cation binding GO:0043169,1.0
+WBGene00001863,cation binding GO:0043169,1.0
+WBGene00023407,cation binding GO:0043169,1.0
+WBGene00006587,cation binding GO:0043169,1.0
+WBGene00006584,cation binding GO:0043169,1.0
+WBGene00001403,cation binding GO:0043169,1.0
+WBGene00016197,cation binding GO:0043169,1.0
+WBGene00000286,cation binding GO:0043169,1.0
+WBGene00007054,cation binding GO:0043169,1.0
+WBGene00010488,cation binding GO:0043169,1.0
+WBGene00009126,cation binding GO:0043169,1.0
+WBGene00017775,cation binding GO:0043169,1.0
+WBGene00020784,cation binding GO:0043169,1.0
+WBGene00003370,cation binding GO:0043169,1.0
+WBGene00000998,cation binding GO:0043169,1.0
+WBGene00006863,cation binding GO:0043169,1.0
+WBGene00003495,cation binding GO:0043169,1.0
+WBGene00006585,cation binding GO:0043169,1.0
+WBGene00006759,cation binding GO:0043169,1.0
+WBGene00002040,cation binding GO:0043169,1.0
+WBGene00022199,cation binding GO:0043169,1.0
+WBGene00006999,cation binding GO:0043169,1.0
+WBGene00019890,cation binding GO:0043169,1.0
+WBGene00011276,cation binding GO:0043169,1.0
+WBGene00006764,cation binding GO:0043169,1.0
+WBGene00008998,cation binding GO:0043169,1.0
+WBGene00003369,cation binding GO:0043169,1.0
+WBGene00006824,cation binding GO:0043169,1.0
+WBGene00020012,cation binding GO:0043169,1.0
+WBGene00002974,oviposition GO:0018991,1.0
+WBGene00007054,oviposition GO:0018991,1.0
+WBGene00006585,oviposition GO:0018991,1.0
+WBGene00014054,oviposition GO:0018991,1.0
+WBGene00006789,oviposition GO:0018991,1.0
+WBGene00001116,oviposition GO:0018991,1.0
+WBGene00009126,ribose phosphate metabolic process GO:0019693,1.0
+WBGene00022199,ribose phosphate metabolic process GO:0019693,1.0
+WBGene00016716,ribose phosphate metabolic process GO:0019693,1.0
+WBGene00011474,ribose phosphate metabolic process GO:0019693,1.0
+WBGene00001863,biological adhesion GO:0022610,1.0
+WBGene00001000,biological adhesion GO:0022610,1.0
+WBGene00000942,biological adhesion GO:0022610,1.0
+WBGene00006999,biological adhesion GO:0022610,1.0
+WBGene00019727,biological adhesion GO:0022610,1.0

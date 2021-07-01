@@ -1,0 +1,407 @@
+wbid,term,found
+WBGene00005032,detection of chemical stimulus GO:0009593,1.0
+WBGene00005038,detection of chemical stimulus GO:0009593,1.0
+WBGene00006253,detection of chemical stimulus GO:0009593,1.0
+WBGene00006201,detection of chemical stimulus GO:0009593,1.0
+WBGene00007370,detection of chemical stimulus GO:0009593,1.0
+WBGene00006231,detection of chemical stimulus GO:0009593,1.0
+WBGene00006180,detection of chemical stimulus GO:0009593,1.0
+WBGene00005040,detection of chemical stimulus GO:0009593,1.0
+WBGene00013649,detection of chemical stimulus GO:0009593,1.0
+WBGene00006202,detection of chemical stimulus GO:0009593,1.0
+WBGene00006222,detection of chemical stimulus GO:0009593,1.0
+WBGene00005032,molecular transducer activity GO:0060089,1.0
+WBGene00005836,molecular transducer activity GO:0060089,1.0
+WBGene00005038,molecular transducer activity GO:0060089,1.0
+WBGene00005780,molecular transducer activity GO:0060089,1.0
+WBGene00006253,molecular transducer activity GO:0060089,1.0
+WBGene00022584,molecular transducer activity GO:0060089,1.0
+WBGene00006201,molecular transducer activity GO:0060089,1.0
+WBGene00007370,molecular transducer activity GO:0060089,1.0
+WBGene00018089,molecular transducer activity GO:0060089,1.0
+WBGene00008342,molecular transducer activity GO:0060089,1.0
+WBGene00012072,molecular transducer activity GO:0060089,1.0
+WBGene00006231,molecular transducer activity GO:0060089,1.0
+WBGene00011358,molecular transducer activity GO:0060089,1.0
+WBGene00005763,molecular transducer activity GO:0060089,1.0
+WBGene00006180,molecular transducer activity GO:0060089,1.0
+WBGene00001532,molecular transducer activity GO:0060089,1.0
+WBGene00005748,molecular transducer activity GO:0060089,1.0
+WBGene00005808,molecular transducer activity GO:0060089,1.0
+WBGene00005818,molecular transducer activity GO:0060089,1.0
+WBGene00018110,molecular transducer activity GO:0060089,1.0
+WBGene00005040,molecular transducer activity GO:0060089,1.0
+WBGene00005831,molecular transducer activity GO:0060089,1.0
+WBGene00005179,molecular transducer activity GO:0060089,1.0
+WBGene00005749,molecular transducer activity GO:0060089,1.0
+WBGene00009194,molecular transducer activity GO:0060089,1.0
+WBGene00005757,molecular transducer activity GO:0060089,1.0
+WBGene00005181,molecular transducer activity GO:0060089,1.0
+WBGene00005754,molecular transducer activity GO:0060089,1.0
+WBGene00012055,molecular transducer activity GO:0060089,1.0
+WBGene00005838,molecular transducer activity GO:0060089,1.0
+WBGene00001540,molecular transducer activity GO:0060089,1.0
+WBGene00005218,molecular transducer activity GO:0060089,1.0
+WBGene00013649,molecular transducer activity GO:0060089,1.0
+WBGene00005756,molecular transducer activity GO:0060089,1.0
+WBGene00001550,molecular transducer activity GO:0060089,1.0
+WBGene00017399,molecular transducer activity GO:0060089,1.0
+WBGene00008223,molecular transducer activity GO:0060089,1.0
+WBGene00005714,molecular transducer activity GO:0060089,1.0
+WBGene00000060,molecular transducer activity GO:0060089,1.0
+WBGene00006202,molecular transducer activity GO:0060089,1.0
+WBGene00005758,molecular transducer activity GO:0060089,1.0
+WBGene00001533,molecular transducer activity GO:0060089,1.0
+WBGene00005766,molecular transducer activity GO:0060089,1.0
+WBGene00016093,molecular transducer activity GO:0060089,1.0
+WBGene00006222,molecular transducer activity GO:0060089,1.0
+WBGene00005810,molecular transducer activity GO:0060089,1.0
+WBGene00011355,molecular transducer activity GO:0060089,1.0
+WBGene00005834,molecular transducer activity GO:0060089,1.0
+WBGene00005172,molecular transducer activity GO:0060089,1.0
+WBGene00005713,molecular transducer activity GO:0060089,1.0
+WBGene00043061,molecular transducer activity GO:0060089,1.0
+WBGene00020523,molecular transducer activity GO:0060089,1.0
+WBGene00189957,molecular transducer activity GO:0060089,1.0
+WBGene00010993,molecular transducer activity GO:0060089,1.0
+WBGene00005841,molecular transducer activity GO:0060089,1.0
+WBGene00077588,molecular transducer activity GO:0060089,1.0
+WBGene00006253,chemosensory behavior GO:0007635,1.0
+WBGene00006201,chemosensory behavior GO:0007635,1.0
+WBGene00007370,chemosensory behavior GO:0007635,1.0
+WBGene00006231,chemosensory behavior GO:0007635,1.0
+WBGene00006180,chemosensory behavior GO:0007635,1.0
+WBGene00001532,chemosensory behavior GO:0007635,1.0
+WBGene00001540,chemosensory behavior GO:0007635,1.0
+WBGene00001550,chemosensory behavior GO:0007635,1.0
+WBGene00015354,chemosensory behavior GO:0007635,1.0
+WBGene00006202,chemosensory behavior GO:0007635,1.0
+WBGene00001533,chemosensory behavior GO:0007635,1.0
+WBGene00006222,chemosensory behavior GO:0007635,1.0
+WBGene00007456,intrinsic component of membrane GO:0031224,1.0
+WBGene00010727,intrinsic component of membrane GO:0031224,1.0
+WBGene00020302,intrinsic component of membrane GO:0031224,1.0
+WBGene00021525,intrinsic component of membrane GO:0031224,1.0
+WBGene00006113,intrinsic component of membrane GO:0031224,1.0
+WBGene00013656,intrinsic component of membrane GO:0031224,1.0
+WBGene00005032,intrinsic component of membrane GO:0031224,1.0
+WBGene00005295,intrinsic component of membrane GO:0031224,1.0
+WBGene00011974,intrinsic component of membrane GO:0031224,1.0
+WBGene00015202,intrinsic component of membrane GO:0031224,1.0
+WBGene00000645,intrinsic component of membrane GO:0031224,1.0
+WBGene00005836,intrinsic component of membrane GO:0031224,1.0
+WBGene00010530,intrinsic component of membrane GO:0031224,1.0
+WBGene00005357,intrinsic component of membrane GO:0031224,1.0
+WBGene00012406,intrinsic component of membrane GO:0031224,1.0
+WBGene00005424,intrinsic component of membrane GO:0031224,1.0
+WBGene00011246,intrinsic component of membrane GO:0031224,1.0
+WBGene00005430,intrinsic component of membrane GO:0031224,1.0
+WBGene00014195,intrinsic component of membrane GO:0031224,1.0
+WBGene00005038,intrinsic component of membrane GO:0031224,1.0
+WBGene00013286,intrinsic component of membrane GO:0031224,1.0
+WBGene00005780,intrinsic component of membrane GO:0031224,1.0
+WBGene00023513,intrinsic component of membrane GO:0031224,1.0
+WBGene00001507,intrinsic component of membrane GO:0031224,1.0
+WBGene00005581,intrinsic component of membrane GO:0031224,1.0
+WBGene00005512,intrinsic component of membrane GO:0031224,1.0
+WBGene00005727,intrinsic component of membrane GO:0031224,1.0
+WBGene00006253,intrinsic component of membrane GO:0031224,1.0
+WBGene00005149,intrinsic component of membrane GO:0031224,1.0
+WBGene00008513,intrinsic component of membrane GO:0031224,1.0
+WBGene00015568,intrinsic component of membrane GO:0031224,1.0
+WBGene00023505,intrinsic component of membrane GO:0031224,1.0
+WBGene00005263,intrinsic component of membrane GO:0031224,1.0
+WBGene00005480,intrinsic component of membrane GO:0031224,1.0
+WBGene00000989,intrinsic component of membrane GO:0031224,1.0
+WBGene00018707,intrinsic component of membrane GO:0031224,1.0
+WBGene00006890,intrinsic component of membrane GO:0031224,1.0
+WBGene00005296,intrinsic component of membrane GO:0031224,1.0
+WBGene00016175,intrinsic component of membrane GO:0031224,1.0
+WBGene00005555,intrinsic component of membrane GO:0031224,1.0
+WBGene00005393,intrinsic component of membrane GO:0031224,1.0
+WBGene00005557,intrinsic component of membrane GO:0031224,1.0
+WBGene00006914,intrinsic component of membrane GO:0031224,1.0
+WBGene00005652,intrinsic component of membrane GO:0031224,1.0
+WBGene00012028,intrinsic component of membrane GO:0031224,1.0
+WBGene00013066,intrinsic component of membrane GO:0031224,1.0
+WBGene00005566,intrinsic component of membrane GO:0031224,1.0
+WBGene00005572,intrinsic component of membrane GO:0031224,1.0
+WBGene00022584,intrinsic component of membrane GO:0031224,1.0
+WBGene00011397,intrinsic component of membrane GO:0031224,1.0
+WBGene00010588,intrinsic component of membrane GO:0031224,1.0
+WBGene00005529,intrinsic component of membrane GO:0031224,1.0
+WBGene00011876,intrinsic component of membrane GO:0031224,1.0
+WBGene00006201,intrinsic component of membrane GO:0031224,1.0
+WBGene00005351,intrinsic component of membrane GO:0031224,1.0
+WBGene00007910,intrinsic component of membrane GO:0031224,1.0
+WBGene00016472,intrinsic component of membrane GO:0031224,1.0
+WBGene00007370,intrinsic component of membrane GO:0031224,1.0
+WBGene00019566,intrinsic component of membrane GO:0031224,1.0
+WBGene00194747,intrinsic component of membrane GO:0031224,1.0
+WBGene00001622,intrinsic component of membrane GO:0031224,1.0
+WBGene00006124,intrinsic component of membrane GO:0031224,1.0
+WBGene00018089,intrinsic component of membrane GO:0031224,1.0
+WBGene00005315,intrinsic component of membrane GO:0031224,1.0
+WBGene00044602,intrinsic component of membrane GO:0031224,1.0
+WBGene00013938,intrinsic component of membrane GO:0031224,1.0
+WBGene00002134,intrinsic component of membrane GO:0031224,1.0
+WBGene00016749,intrinsic component of membrane GO:0031224,1.0
+WBGene00005410,intrinsic component of membrane GO:0031224,1.0
+WBGene00023475,intrinsic component of membrane GO:0031224,1.0
+WBGene00010217,intrinsic component of membrane GO:0031224,1.0
+WBGene00005667,intrinsic component of membrane GO:0031224,1.0
+WBGene00008342,intrinsic component of membrane GO:0031224,1.0
+WBGene00270303,intrinsic component of membrane GO:0031224,1.0
+WBGene00013276,intrinsic component of membrane GO:0031224,1.0
+WBGene00010331,intrinsic component of membrane GO:0031224,1.0
+WBGene00005900,intrinsic component of membrane GO:0031224,1.0
+WBGene00012072,intrinsic component of membrane GO:0031224,1.0
+WBGene00005578,intrinsic component of membrane GO:0031224,1.0
+WBGene00005234,intrinsic component of membrane GO:0031224,1.0
+WBGene00006231,intrinsic component of membrane GO:0031224,1.0
+WBGene00017371,intrinsic component of membrane GO:0031224,1.0
+WBGene00015592,intrinsic component of membrane GO:0031224,1.0
+WBGene00010527,intrinsic component of membrane GO:0031224,1.0
+WBGene00005585,intrinsic component of membrane GO:0031224,1.0
+WBGene00013074,intrinsic component of membrane GO:0031224,1.0
+WBGene00005237,intrinsic component of membrane GO:0031224,1.0
+WBGene00006913,intrinsic component of membrane GO:0031224,1.0
+WBGene00005401,intrinsic component of membrane GO:0031224,1.0
+WBGene00011358,intrinsic component of membrane GO:0031224,1.0
+WBGene00015907,intrinsic component of membrane GO:0031224,1.0
+WBGene00012286,intrinsic component of membrane GO:0031224,1.0
+WBGene00005481,intrinsic component of membrane GO:0031224,1.0
+WBGene00005763,intrinsic component of membrane GO:0031224,1.0
+WBGene00006180,intrinsic component of membrane GO:0031224,1.0
+WBGene00001532,intrinsic component of membrane GO:0031224,1.0
+WBGene00005748,intrinsic component of membrane GO:0031224,1.0
+WBGene00005808,intrinsic component of membrane GO:0031224,1.0
+WBGene00005518,intrinsic component of membrane GO:0031224,1.0
+WBGene00005818,intrinsic component of membrane GO:0031224,1.0
+WBGene00018141,intrinsic component of membrane GO:0031224,1.0
+WBGene00005243,intrinsic component of membrane GO:0031224,1.0
+WBGene00019966,intrinsic component of membrane GO:0031224,1.0
+WBGene00016827,intrinsic component of membrane GO:0031224,1.0
+WBGene00005415,intrinsic component of membrane GO:0031224,1.0
+WBGene00007324,intrinsic component of membrane GO:0031224,1.0
+WBGene00007437,intrinsic component of membrane GO:0031224,1.0
+WBGene00044587,intrinsic component of membrane GO:0031224,1.0
+WBGene00013629,intrinsic component of membrane GO:0031224,1.0
+WBGene00005914,intrinsic component of membrane GO:0031224,1.0
+WBGene00001623,intrinsic component of membrane GO:0031224,1.0
+WBGene00005040,intrinsic component of membrane GO:0031224,1.0
+WBGene00005090,intrinsic component of membrane GO:0031224,1.0
+WBGene00005484,intrinsic component of membrane GO:0031224,1.0
+WBGene00005977,intrinsic component of membrane GO:0031224,1.0
+WBGene00006102,intrinsic component of membrane GO:0031224,1.0
+WBGene00005361,intrinsic component of membrane GO:0031224,1.0
+WBGene00005486,intrinsic component of membrane GO:0031224,1.0
+WBGene00004401,intrinsic component of membrane GO:0031224,1.0
+WBGene00235116,intrinsic component of membrane GO:0031224,1.0
+WBGene00019764,intrinsic component of membrane GO:0031224,1.0
+WBGene00235320,intrinsic component of membrane GO:0031224,1.0
+WBGene00019356,intrinsic component of membrane GO:0031224,1.0
+WBGene00005831,intrinsic component of membrane GO:0031224,1.0
+WBGene00255702,intrinsic component of membrane GO:0031224,1.0
+WBGene00019851,intrinsic component of membrane GO:0031224,1.0
+WBGene00013564,intrinsic component of membrane GO:0031224,1.0
+WBGene00005179,intrinsic component of membrane GO:0031224,1.0
+WBGene00005749,intrinsic component of membrane GO:0031224,1.0
+WBGene00022551,intrinsic component of membrane GO:0031224,1.0
+WBGene00043997,intrinsic component of membrane GO:0031224,1.0
+WBGene00009194,intrinsic component of membrane GO:0031224,1.0
+WBGene00005757,intrinsic component of membrane GO:0031224,1.0
+WBGene00005584,intrinsic component of membrane GO:0031224,1.0
+WBGene00012561,intrinsic component of membrane GO:0031224,1.0
+WBGene00002135,intrinsic component of membrane GO:0031224,1.0
+WBGene00012725,intrinsic component of membrane GO:0031224,1.0
+WBGene00010394,intrinsic component of membrane GO:0031224,1.0
+WBGene00013915,intrinsic component of membrane GO:0031224,1.0
+WBGene00010218,intrinsic component of membrane GO:0031224,1.0
+WBGene00005679,intrinsic component of membrane GO:0031224,1.0
+WBGene00023411,intrinsic component of membrane GO:0031224,1.0
+WBGene00017351,intrinsic component of membrane GO:0031224,1.0
+WBGene00005229,intrinsic component of membrane GO:0031224,1.0
+WBGene00008815,intrinsic component of membrane GO:0031224,1.0
+WBGene00005362,intrinsic component of membrane GO:0031224,1.0
+WBGene00012333,intrinsic component of membrane GO:0031224,1.0
+WBGene00011570,intrinsic component of membrane GO:0031224,1.0
+WBGene00005426,intrinsic component of membrane GO:0031224,1.0
+WBGene00005181,intrinsic component of membrane GO:0031224,1.0
+WBGene00005669,intrinsic component of membrane GO:0031224,1.0
+WBGene00005754,intrinsic component of membrane GO:0031224,1.0
+WBGene00005893,intrinsic component of membrane GO:0031224,1.0
+WBGene00010688,intrinsic component of membrane GO:0031224,1.0
+WBGene00010559,intrinsic component of membrane GO:0031224,1.0
+WBGene00017868,intrinsic component of membrane GO:0031224,1.0
+WBGene00219371,intrinsic component of membrane GO:0031224,1.0
+WBGene00019051,intrinsic component of membrane GO:0031224,1.0
+WBGene00012055,intrinsic component of membrane GO:0031224,1.0
+WBGene00015667,intrinsic component of membrane GO:0031224,1.0
+WBGene00005838,intrinsic component of membrane GO:0031224,1.0
+WBGene00005412,intrinsic component of membrane GO:0031224,1.0
+WBGene00077640,intrinsic component of membrane GO:0031224,1.0
+WBGene00001540,intrinsic component of membrane GO:0031224,1.0
+WBGene00005471,intrinsic component of membrane GO:0031224,1.0
+WBGene00003179,intrinsic component of membrane GO:0031224,1.0
+WBGene00189987,intrinsic component of membrane GO:0031224,1.0
+WBGene00005218,intrinsic component of membrane GO:0031224,1.0
+WBGene00005335,intrinsic component of membrane GO:0031224,1.0
+WBGene00013649,intrinsic component of membrane GO:0031224,1.0
+WBGene00005577,intrinsic component of membrane GO:0031224,1.0
+WBGene00005382,intrinsic component of membrane GO:0031224,1.0
+WBGene00006134,intrinsic component of membrane GO:0031224,1.0
+WBGene00005306,intrinsic component of membrane GO:0031224,1.0
+WBGene00000687,intrinsic component of membrane GO:0031224,1.0
+WBGene00005253,intrinsic component of membrane GO:0031224,1.0
+WBGene00021169,intrinsic component of membrane GO:0031224,1.0
+WBGene00011693,intrinsic component of membrane GO:0031224,1.0
+WBGene00008947,intrinsic component of membrane GO:0031224,1.0
+WBGene00012856,intrinsic component of membrane GO:0031224,1.0
+WBGene00015444,intrinsic component of membrane GO:0031224,1.0
+WBGene00005756,intrinsic component of membrane GO:0031224,1.0
+WBGene00001550,intrinsic component of membrane GO:0031224,1.0
+WBGene00005406,intrinsic component of membrane GO:0031224,1.0
+WBGene00017399,intrinsic component of membrane GO:0031224,1.0
+WBGene00006077,intrinsic component of membrane GO:0031224,1.0
+WBGene00005586,intrinsic component of membrane GO:0031224,1.0
+WBGene00012249,intrinsic component of membrane GO:0031224,1.0
+WBGene00013468,intrinsic component of membrane GO:0031224,1.0
+WBGene00007809,intrinsic component of membrane GO:0031224,1.0
+WBGene00008223,intrinsic component of membrane GO:0031224,1.0
+WBGene00005714,intrinsic component of membrane GO:0031224,1.0
+WBGene00005558,intrinsic component of membrane GO:0031224,1.0
+WBGene00010866,intrinsic component of membrane GO:0031224,1.0
+WBGene00000670,intrinsic component of membrane GO:0031224,1.0
+WBGene00005317,intrinsic component of membrane GO:0031224,1.0
+WBGene00023499,intrinsic component of membrane GO:0031224,1.0
+WBGene00005565,intrinsic component of membrane GO:0031224,1.0
+WBGene00012287,intrinsic component of membrane GO:0031224,1.0
+WBGene00005348,intrinsic component of membrane GO:0031224,1.0
+WBGene00000060,intrinsic component of membrane GO:0031224,1.0
+WBGene00016585,intrinsic component of membrane GO:0031224,1.0
+WBGene00005144,intrinsic component of membrane GO:0031224,1.0
+WBGene00195243,intrinsic component of membrane GO:0031224,1.0
+WBGene00005299,intrinsic component of membrane GO:0031224,1.0
+WBGene00044707,intrinsic component of membrane GO:0031224,1.0
+WBGene00005364,intrinsic component of membrane GO:0031224,1.0
+WBGene00005242,intrinsic component of membrane GO:0031224,1.0
+WBGene00019054,intrinsic component of membrane GO:0031224,1.0
+WBGene00044115,intrinsic component of membrane GO:0031224,1.0
+WBGene00011682,intrinsic component of membrane GO:0031224,1.0
+WBGene00008327,intrinsic component of membrane GO:0031224,1.0
+WBGene00006021,intrinsic component of membrane GO:0031224,1.0
+WBGene00005417,intrinsic component of membrane GO:0031224,1.0
+WBGene00006005,intrinsic component of membrane GO:0031224,1.0
+WBGene00010414,intrinsic component of membrane GO:0031224,1.0
+WBGene00022552,intrinsic component of membrane GO:0031224,1.0
+WBGene00006202,intrinsic component of membrane GO:0031224,1.0
+WBGene00005264,intrinsic component of membrane GO:0031224,1.0
+WBGene00004122,intrinsic component of membrane GO:0031224,1.0
+WBGene00005758,intrinsic component of membrane GO:0031224,1.0
+WBGene00010187,intrinsic component of membrane GO:0031224,1.0
+WBGene00005953,intrinsic component of membrane GO:0031224,1.0
+WBGene00006096,intrinsic component of membrane GO:0031224,1.0
+WBGene00016818,intrinsic component of membrane GO:0031224,1.0
+WBGene00005533,intrinsic component of membrane GO:0031224,1.0
+WBGene00269424,intrinsic component of membrane GO:0031224,1.0
+WBGene00020887,intrinsic component of membrane GO:0031224,1.0
+WBGene00011322,intrinsic component of membrane GO:0031224,1.0
+WBGene00220257,intrinsic component of membrane GO:0031224,1.0
+WBGene00012043,intrinsic component of membrane GO:0031224,1.0
+WBGene00018973,intrinsic component of membrane GO:0031224,1.0
+WBGene00001533,intrinsic component of membrane GO:0031224,1.0
+WBGene00008050,intrinsic component of membrane GO:0031224,1.0
+WBGene00013602,intrinsic component of membrane GO:0031224,1.0
+WBGene00005443,intrinsic component of membrane GO:0031224,1.0
+WBGene00005766,intrinsic component of membrane GO:0031224,1.0
+WBGene00006910,intrinsic component of membrane GO:0031224,1.0
+WBGene00005947,intrinsic component of membrane GO:0031224,1.0
+WBGene00019754,intrinsic component of membrane GO:0031224,1.0
+WBGene00011340,intrinsic component of membrane GO:0031224,1.0
+WBGene00013282,intrinsic component of membrane GO:0031224,1.0
+WBGene00010950,intrinsic component of membrane GO:0031224,1.0
+WBGene00044116,intrinsic component of membrane GO:0031224,1.0
+WBGene00016093,intrinsic component of membrane GO:0031224,1.0
+WBGene00006222,intrinsic component of membrane GO:0031224,1.0
+WBGene00005810,intrinsic component of membrane GO:0031224,1.0
+WBGene00018825,intrinsic component of membrane GO:0031224,1.0
+WBGene00011864,intrinsic component of membrane GO:0031224,1.0
+WBGene00005339,intrinsic component of membrane GO:0031224,1.0
+WBGene00010388,intrinsic component of membrane GO:0031224,1.0
+WBGene00009882,intrinsic component of membrane GO:0031224,1.0
+WBGene00021337,intrinsic component of membrane GO:0031224,1.0
+WBGene00017039,intrinsic component of membrane GO:0031224,1.0
+WBGene00011355,intrinsic component of membrane GO:0031224,1.0
+WBGene00015368,intrinsic component of membrane GO:0031224,1.0
+WBGene00012089,intrinsic component of membrane GO:0031224,1.0
+WBGene00005550,intrinsic component of membrane GO:0031224,1.0
+WBGene00008184,intrinsic component of membrane GO:0031224,1.0
+WBGene00009388,intrinsic component of membrane GO:0031224,1.0
+WBGene00009536,intrinsic component of membrane GO:0031224,1.0
+WBGene00005589,intrinsic component of membrane GO:0031224,1.0
+WBGene00021033,intrinsic component of membrane GO:0031224,1.0
+WBGene00000625,intrinsic component of membrane GO:0031224,1.0
+WBGene00013645,intrinsic component of membrane GO:0031224,1.0
+WBGene00005834,intrinsic component of membrane GO:0031224,1.0
+WBGene00005172,intrinsic component of membrane GO:0031224,1.0
+WBGene00005375,intrinsic component of membrane GO:0031224,1.0
+WBGene00015036,intrinsic component of membrane GO:0031224,1.0
+WBGene00006911,intrinsic component of membrane GO:0031224,1.0
+WBGene00005713,intrinsic component of membrane GO:0031224,1.0
+WBGene00077681,intrinsic component of membrane GO:0031224,1.0
+WBGene00006135,intrinsic component of membrane GO:0031224,1.0
+WBGene00005227,intrinsic component of membrane GO:0031224,1.0
+WBGene00006072,intrinsic component of membrane GO:0031224,1.0
+WBGene00043061,intrinsic component of membrane GO:0031224,1.0
+WBGene00000672,intrinsic component of membrane GO:0031224,1.0
+WBGene00001105,intrinsic component of membrane GO:0031224,1.0
+WBGene00020523,intrinsic component of membrane GO:0031224,1.0
+WBGene00005544,intrinsic component of membrane GO:0031224,1.0
+WBGene00021953,intrinsic component of membrane GO:0031224,1.0
+WBGene00005428,intrinsic component of membrane GO:0031224,1.0
+WBGene00044476,intrinsic component of membrane GO:0031224,1.0
+WBGene00005432,intrinsic component of membrane GO:0031224,1.0
+WBGene00007802,intrinsic component of membrane GO:0031224,1.0
+WBGene00001626,intrinsic component of membrane GO:0031224,1.0
+WBGene00189957,intrinsic component of membrane GO:0031224,1.0
+WBGene00010993,intrinsic component of membrane GO:0031224,1.0
+WBGene00003174,intrinsic component of membrane GO:0031224,1.0
+WBGene00005328,intrinsic component of membrane GO:0031224,1.0
+WBGene00022804,intrinsic component of membrane GO:0031224,1.0
+WBGene00006020,intrinsic component of membrane GO:0031224,1.0
+WBGene00005841,intrinsic component of membrane GO:0031224,1.0
+WBGene00077514,intrinsic component of membrane GO:0031224,1.0
+WBGene00015996,intrinsic component of membrane GO:0031224,1.0
+WBGene00268206,intrinsic component of membrane GO:0031224,1.0
+WBGene00016279,intrinsic component of membrane GO:0031224,1.0
+WBGene00023478,intrinsic component of membrane GO:0031224,1.0
+WBGene00017867,intrinsic component of membrane GO:0031224,1.0
+WBGene00023506,intrinsic component of membrane GO:0031224,1.0
+WBGene00077588,intrinsic component of membrane GO:0031224,1.0
+WBGene00206460,intrinsic component of membrane GO:0031224,1.0
+WBGene00008589,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00022584,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00011428,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00003744,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00044028,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00001454,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00001452,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00001456,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00003740,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00009562,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00013752,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00022276,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00003753,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00003758,neuropeptide signaling pathway GO:0007218,1.0
+WBGene00005032,sensory perception of smell GO:0007608,1.0
+WBGene00005038,sensory perception of smell GO:0007608,1.0
+WBGene00006253,sensory perception of smell GO:0007608,1.0
+WBGene00006201,sensory perception of smell GO:0007608,1.0
+WBGene00007370,sensory perception of smell GO:0007608,1.0
+WBGene00006231,sensory perception of smell GO:0007608,1.0
+WBGene00006180,sensory perception of smell GO:0007608,1.0
+WBGene00005040,sensory perception of smell GO:0007608,1.0
+WBGene00013649,sensory perception of smell GO:0007608,1.0
+WBGene00006202,sensory perception of smell GO:0007608,1.0
+WBGene00006222,sensory perception of smell GO:0007608,1.0
