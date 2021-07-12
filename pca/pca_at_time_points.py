@@ -7,8 +7,8 @@ from anndata import AnnData
 import scanpy as sc
 
 
-normalize_by_cell = True
-normalize_by_gene = True
+normalize_by_cell = False
+normalize_by_gene = False
 mean_subtract = False
 
 def get_adjustment():
@@ -22,7 +22,7 @@ def get_adjustment():
     if normalize_by_gene:
         return 'normalized_by_gene'
 
-    return ''
+    return 'raw'
 
 
 muscles = ['BWM_anterior', 'BWM_far_posterior', 'BWM_head_row_1', 'BWM_head_row_2', 'BWM_posterior']
@@ -51,7 +51,7 @@ df_final_dict = {}
 for bin in bins:
     df = pd.DataFrame(columns = df_dict['BWM_anterior'].columns)
     for cell, cell_df in df_dict.items():
-        df.loc[cell] = cell_df.loc[cell + ':' + bin] 
+        df.loc[cell] = cell_df.loc[bin] 
 
     df_final_dict[bin] = df 
         
@@ -79,4 +79,5 @@ for key, val in df_final_dict.items():
     adjustment = get_adjustment()
 
     outfile = adjustment + '_' + key + ':pca.csv'
+    print(outfile)
     df.to_csv('pca/' + outfile)

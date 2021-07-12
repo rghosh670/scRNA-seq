@@ -1,0 +1,6 @@
+,raw,mean_subtract,normalized_by_cell,normalized_by_cell_and_gene,normalized_by_gene
+raw,,,0.022830681953502362,1.4354060324298976,1.395892081550014
+mean_subtract,,,0.022830681953507227,1.4354060324298976,1.395892081550014
+normalized_by_cell,,,,1.4347984520268706,1.3959690551140858
+normalized_by_cell_and_gene,,,,,0.38286356881887273
+normalized_by_gene,,,,,

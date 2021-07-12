@@ -1,19 +1,11 @@
 import pandas as pd
-from anndata import AnnData
-import scanpy as sc
 
-df = pd.read_csv('data/de_analysis_part2/impulse_de2_input.csv', index_col=[0])
-# print(df)
+time_bins = ['270_330', '330_390', '390_450', '450_510', '510_580', '580_650', 'gt_650']
 
+for bin in time_bins:
+    df = pd.read_csv('marker_genes/marker_time_bin_' + bin + '.csv', index_col=1)
 
-adata = AnnData(df)
-X_norm = sc.pp.normalize_total(adata, target_sum=1, inplace=False)['X']
-print(X_norm)
-
-df = pd.DataFrame(X_norm, index = df.index, columns = df.columns)
-df *= 100
-df = df.astype(int)
-print(df)
-
-df += 1
-df.to_csv('normalized_input.csv')
+    df = df.drop('Unnamed: 0', axis = 1)
+    df = df.sort_values(by = 'specificity', ascending=False)
+    df.to_csv('marker_genes/marker_time_bin_' + bin + '.csv')
+    print(df)
