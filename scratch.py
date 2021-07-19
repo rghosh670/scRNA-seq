@@ -1,29 +1,18 @@
 import pandas as pd
-import numpy as np
-from scipy import stats
 
-norm = 'raw'
+df = pd.read_csv('controlled_replicates.csv', index_col=0)
 
-genes = pd.read_csv('pca/' + norm + '/' + norm + '_HVGs.csv', index_col=0).index.tolist()
-
-cols = ['slope', 'interecept', 'r', 'p', 'std_err']
-
-result = pd.DataFrame(index = genes, columns = cols)
-
-df  = pd.read_csv('pca/' + norm + '/' + norm + '_first_components_abs.csv', index_col=0, usecols=genes)
-
-
-x = [300, 360, 420, 480, 545, 615, 690]
 
 for index, col in df.iteritems():
-    fit = list(stats.linregress(x,col.tolist()))
-    result.loc[index] = fit
+    rep = index[-1]
+
+    if rep == '2':
+        df[index] = df[index[:-1] + '1'] + 1
+
+    if rep == '3':
+        df[index] = df[index[:-1] + '1'] - 1
 
 
-r = result['r'].tolist()
-r2 = [i ** 2 for i in r]
-result['r^2'] = r2
-
-result.to_csv('pca/' + norm + '/' + norm + '_linear_fit.csv')
-
-print(result)
+df[df < 0] = 0
+df = df + 1
+df.to_csv('20_input.csv')

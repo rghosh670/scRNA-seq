@@ -7,7 +7,7 @@ time_bins = ['270_330', '330_390', '390_450', '450_510', '510_580', '580_650', '
 
 def detect_outlier(data_1):
     outliers=[]
-    threshold=2
+    threshold=0.5
     mean_1 = np.mean(data_1)
     std_1 =np.std(data_1)
     
@@ -19,7 +19,7 @@ def detect_outlier(data_1):
     return outliers
 
 
-norm = 'raw'
+norm = 'transcription_factor'
 
 df = pd.read_csv('pca/' + norm + '/' + norm + '_' + 'first_components.csv', index_col=0)
 
@@ -42,13 +42,15 @@ for muscle in muscles:
 
 result = pd.DataFrame(index = df.columns, columns = muscles)
 
+bins = []
+
 for index, col in df.iteritems():
     col = col.abs()
     bin = col.idxmax()
+    bins.append(bin)
 
     for muscle in muscles:
         result.at[index, muscle] = muscle_dict[muscle].at[bin, index]
-    
+
 print(result)
-# exit()
-result.to_csv('pca/' + norm + '/' + norm + '_HVGs.csv')
+result.to_csv('more_tf_hvgs.csv')

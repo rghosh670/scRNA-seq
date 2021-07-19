@@ -7,11 +7,15 @@ from anndata import AnnData
 import scanpy as sc
 
 
+tfs = False
 normalize_by_cell = False
 normalize_by_gene = False
-mean_subtract = False
+mean_subtract = True
 
 def get_adjustment():
+    if tfs:
+        return 'transcription_factor'
+
     if mean_subtract:
         return 'mean_subtract'
 
@@ -36,7 +40,7 @@ f = open('/home/rohit/Documents/scRNA-seq/data/muscleTFStuff/muscle_functional_g
 func_genes = f.read().splitlines()
 f.close()
 
-genes = tf + func_genes
+genes = tf if tfs else tf + func_genes 
 genes_idx = [i for i, val in enumerate(columns) if val in genes]
 genes_idx.insert(0,0)
 
