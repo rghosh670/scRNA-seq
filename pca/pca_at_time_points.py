@@ -8,11 +8,15 @@ import scanpy as sc
 
 
 tfs = False
+epigenetic_regulators = True
 normalize_by_cell = False
 normalize_by_gene = False
 mean_subtract = True
 
 def get_adjustment():
+    if epigenetic_regulators:
+        return 'epigenetic_regulators'
+
     if tfs:
         return 'transcription_factor'
 
@@ -40,7 +44,14 @@ f = open('/home/rohit/Documents/scRNA-seq/data/muscleTFStuff/muscle_functional_g
 func_genes = f.read().splitlines()
 f.close()
 
-genes = tf if tfs else tf + func_genes 
+f = open('epigenetic_regulators.txt')
+epi_reg = f.read().splitlines()
+f.close()
+
+genes = tf if tfs else tf + func_genes
+if epigenetic_regulators: 
+    genes = epi_reg
+
 genes_idx = [i for i, val in enumerate(columns) if val in genes]
 genes_idx.insert(0,0)
 

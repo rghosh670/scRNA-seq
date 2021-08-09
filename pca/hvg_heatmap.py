@@ -5,19 +5,20 @@ from matplotlib.colors import LogNorm, Normalize
 import matplotlib
 from sklearn.preprocessing import Normalizer
 
+norm = 'epigenetic_regulators'
 
+df = pd.read_csv('pca/' + norm + '/' + norm + '_' + 'hvgs.csv', index_col=0)
 
-df = pd.read_csv('more_tf_hvgs.csv', index_col=0)
 sns.set(font_scale=1)
 df.iloc[:,:] = Normalizer(norm='l1').fit_transform(df)
-g = sns.clustermap(df, xticklabels=1, col_cluster=False, cbar=False, dendrogram_ratio=0.001, figsize=(20,35.6))
+g = sns.clustermap(df, xticklabels=1, col_cluster=False, cbar=False, dendrogram_ratio=0.001, figsize=(10,4))
 g.ax_row_dendrogram.set_visible(False)
 
 plt.show()
 plt.tight_layout()
 g.cax.set_visible(False)
 
-outfile = 'background.png'
+outfile = 'pca/' + norm + '/' + norm + '_' + 'heatmap.png'
 plt.ylim(bottom=0.5)
 
 plt.savefig(outfile, bbox_inches='tight', pad_inches=.25)

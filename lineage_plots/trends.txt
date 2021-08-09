@@ -1,0 +1,22 @@
+B0238.11 posterior
+ceh-13 posterior
+ceh-34 anterior
+efl-3 anterior
+eya-1 anterior
+fkh-2 posterior (except for D)
+flh-1 anterior (except for D)
+flh-3 posterior (C)
+gop-3 (anterior for MS, posterior for C)
+ham-1
+hlh-16 anterior
+irx-1 (posterior for Msa, anterior otherwise)
+pat-9 (posterior for MS, no trend for C and D)
+somi-1 posterior
+tbx-2 (anterior for Msa and Spa, posterior otherwise)
+tbx-8 (anterior fro D, posterior otherwise)
+tbx-9 posterior
+tlp-1 posterior
+uaf-2
+unc-62 posterior (except for C)
+unc-120 posterior (except for C and D)
+vab-7 posterior

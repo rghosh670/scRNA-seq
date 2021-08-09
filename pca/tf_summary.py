@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-result = pd.read_csv('more_tfs.csv', index_col=0)
+result = pd.read_csv('more_tfs/more_tfs.csv', index_col=0)
 genes = result.index.tolist()
 
 x = result.columns.tolist()

@@ -4,10 +4,9 @@ import itertools
 
 time_bins = ['270_330', '330_390', '390_450', '450_510', '510_580', '580_650', 'gt_650']
 
-
 def detect_outlier(data_1):
     outliers=[]
-    threshold=0.5
+    threshold=1
     mean_1 = np.mean(data_1)
     std_1 =np.std(data_1)
     
@@ -19,7 +18,7 @@ def detect_outlier(data_1):
     return outliers
 
 
-norm = 'transcription_factor'
+norm = 'epigenetic_regulators'
 
 df = pd.read_csv('pca/' + norm + '/' + norm + '_' + 'first_components.csv', index_col=0)
 
@@ -53,4 +52,4 @@ for index, col in df.iteritems():
         result.at[index, muscle] = muscle_dict[muscle].at[bin, index]
 
 print(result)
-result.to_csv('more_tf_hvgs.csv')
+result.to_csv('pca/' + norm + '/' + norm + '_' + 'hvgs.csv')

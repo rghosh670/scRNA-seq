@@ -1,6 +1,6 @@
 import pandas as pd
 
-f = open('hello.txt', 'r')
+f = open('sink.txt', 'r')
 sink = f.read().splitlines()
 f.close()
 
@@ -28,4 +28,4 @@ df = pd.DataFrame(index=gene_list)
 df['t1'] = t1_list
 df['t2'] = t2_list
 df['avg'] = avg_list
-df.to_csv('/home/rohit/Documents/scRNA-seq/data/geneAndTimeData/de_analysis_part2/state_transition_times.csv')
+df.to_csv('sink_parsed.csv')
