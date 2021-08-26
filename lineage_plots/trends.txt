@@ -13,7 +13,7 @@ irx-1 (posterior for Msa, anterior otherwise)
 pat-9 (posterior for MS, no trend for C and D)
 somi-1 posterior
 tbx-2 (anterior for Msa and Spa, posterior otherwise)
-tbx-8 (anterior fro D, posterior otherwise)
+tbx-8 (anterior for D, posterior otherwise)
 tbx-9 posterior
 tlp-1 posterior
 uaf-2

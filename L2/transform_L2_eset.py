@@ -5,8 +5,9 @@ import scanpy as sc
 
 norm = True
 
-def normalize(df):
+def normalize(df, cols, index):
     df = df.T
+    df = df + 1
     adata = AnnData(df)
 
     df = sc.pp.normalize_total(adata, inplace=False, exclude_highly_expressed = True)['X']
@@ -28,6 +29,7 @@ for count in range(len(cols)):
         cols[count] = i[:i.find('.')]
 
 index = df.index
+df = normalize(df, cols, index)
 
 gene_dict = {}
 df.columns = cols
@@ -41,21 +43,12 @@ for index, row in df.iterrows():
         x += val
         gene_dict[index][cell] = x
 
-# for key, val in gene_dict.items():
-#     for i in val.keys():
-#         gene_dict[key][i] /= cell_count[i] * 100
-
-
 index = df.index
 cols = gene_dict['nhr-256'].keys()
 result = pd.DataFrame(index = df.index, columns=cols)
 
 for i in result.index.tolist():
     result.loc[i] = list(gene_dict[i].values())
-
-if norm:
-   result = norm(df)
-
 
 result.to_csv('L2/L2_eset_by_muscle_subtype.csv')
 
