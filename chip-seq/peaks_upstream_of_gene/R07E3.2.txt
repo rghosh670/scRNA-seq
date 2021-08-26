@@ -1,7 +1,7 @@
-mab-5
-pha-4
-nhr-2
-blmp-1
-F23F12.9
 pax-1
+nhr-2
+pha-4
 gei-11
+mab-5
+F23F12.9
+blmp-1

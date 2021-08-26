@@ -1,6 +1,6 @@
-lsy-2
-pha-4
-mep-1
 pax-1
-lin-13
+mep-1
+pha-4
 gei-11
+lsy-2
+lin-13

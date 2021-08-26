@@ -1,9 +1,9 @@
-ama-1
-lsy-2
-mep-1
 nhr-2
+ama-1
+mep-1
 elt-3
-F23F12.9
-lin-13
 gei-11
 unc-62
+lsy-2
+F23F12.9
+lin-13
